@@ -166,6 +166,13 @@ nav{
 .language__img{
     width: 100%;
     max-width: 100px;
+    transition: all 300ms ease;
+}
+
+.language__img:hover{
+    filter: brightness(80%);
+    opacity: 0.86;
+    transform: scale(0.9);
 }
 
 .language{
@@ -176,9 +183,16 @@ nav{
     display: flex;
     justify-content: center;
     align-content: center;
+    padding: 25px 16px;
 
 }
 
 .language__list{
     display: flex;
+}
+
+.language__list{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
 }
