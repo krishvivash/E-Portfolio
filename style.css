@@ -106,7 +106,7 @@ nav{
 
 .nav__link--list{
     display: flex;
-    
+    align-items: center;   
 }
 
 .nav__link--anchor{
