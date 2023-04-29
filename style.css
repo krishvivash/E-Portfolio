@@ -117,7 +117,7 @@ nav{
 }
 
 .nav__link--anchor-primary{
-    background-color: #6030b1;
+    background-color: #162ee9;
     padding: 8px 20px;
     border-radius: 50px;
     color: white;
@@ -125,18 +125,18 @@ nav{
 }
 
 .nav__link--anchor-primary:hover{
-    background-color: #5d3eff;
+    background-color: #196CDE;
 }
 
 .personal__logo{
     font-size: 24px;
-    column-rule-color: #6030b1;
+    color: #162ee9;
     margin: 0 12px;
     font-weight: bold;
 }
 
 .text-purple{
-    color: #6030b1;
+    color: #162ee9;
 }
 
 
@@ -406,7 +406,7 @@ nav{
 /* FOOTER */
 
 footer{
-    background-color: #242424;
+    background-color: #54648c;
 }
 
 .footer__row{
